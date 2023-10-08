@@ -13,7 +13,7 @@ function Header() {
     <div className="wrapper flex justify-between items-center h-screen w-full px-20 lg:justify-center lg:px-6">
       <div className="content lg:text-center">
         <div className="btn py-3">
-          <button  className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Bienvenu sur mon porfolio</button>
+          <button  className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Bienvenue sur mon porfolio</button>
         </div>
         <h1 className='text-white text-5xl font-bold'>Bonjour, je suis Joris 👋   </h1>
         <p className='text-white py-4 max-w-lg  '>

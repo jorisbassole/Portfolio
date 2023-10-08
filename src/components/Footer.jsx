@@ -14,7 +14,7 @@ function Footer() {
 
           <a
               href= "/../assets/cv.pdf"
-              target="_blank" 
+              download="cv.pdf" 
               className=" lg2:text-2xl lg2:mb-5">
                 Télécharger mon cv
             <FontAwesomeIcon icon={faFolderOpen}  size='lg' className="tl:border-[1px] border-white p-2 lg2:ml-2 rounded-[100%] hover:bg-white hover:text-black " />
