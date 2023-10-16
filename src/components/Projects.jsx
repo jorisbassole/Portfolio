@@ -71,7 +71,7 @@ function Projects() {
               durum == 1 ? "bg-[linear-gradient(90deg,#b004b0,#38097a)]" : ""
             }`}
           >
-           Mes Projets
+           Découvrir mes projets
           </button>
 
         </div>
